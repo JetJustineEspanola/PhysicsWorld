@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Arrow
+  - Targetq
+  - ForeGroundPrefab
+  - Background
+  - Post PRocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DarkerBlueSkies
+    uniqueID: 2128151133
+    locked: 0
+  - name: Blueskies
+    uniqueID: 1754351391
+    locked: 0
+  - name: Clouds
+    uniqueID: 3690879163
+    locked: 0
+  - name: Mountains
+    uniqueID: 2340515871
+    locked: 0
+  - name: FarBackgroundTrees
+    uniqueID: 4125376765
+    locked: 0
+  - name: FrontBackgroundTrees
+    uniqueID: 4243877179
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4015696155
+    locked: 0
+  - name: Mid Ground
+    uniqueID: 3983842405
+    locked: 0
+  - name: ForeGround
+    uniqueID: 588059665
+    locked: 0
+  - name: Arrow
+    uniqueID: 1062517975
+    locked: 0
