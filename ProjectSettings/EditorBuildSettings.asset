@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Projectile Game Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/UI Level Selection.unity
+    guid: 4827e9176fde1614b8be878a1aa40029
+  - enabled: 1
+    path: Assets/Scenes/Projectile Tutorial 1.unity
+    guid: 90a55aacef0487341966d5aa6ca73c39
+  - enabled: 1
+    path: Assets/Scenes/Vo Tutorial.unity
+    guid: 3170fe62b9640314db8d6ccc8f5bebff
+  - enabled: 1
+    path: Assets/Scenes/Vx Tutorial.unity
+    guid: 60d23624a56f8bf428b15b3420b44532
+  - enabled: 1
+    path: Assets/Scenes/Vy Tutorial.unity
+    guid: 002e99a13d6f0484783a1c183798a2cf
   m_configObjects: {}

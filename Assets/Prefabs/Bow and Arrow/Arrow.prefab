@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 669204562945335554}
   - component: {fileID: 7831178179056028859}
   - component: {fileID: -5935245656876225929}
-  - component: {fileID: -2421090995183943510}
   - component: {fileID: 7626205404069850111}
   - component: {fileID: 1378111427689296618}
+  - component: {fileID: 6233239776244508540}
   m_Layer: 6
   m_Name: Arrow
   m_TagString: Untagged
@@ -161,18 +161,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.09375, y: 0.28125}
   m_EdgeRadius: 0
---- !u!114 &-2421090995183943510
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 987083297778883385}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a39cd7ae0c057434096a764cb68ad454, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &7626205404069850111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -185,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b5904ae2079da24489be390eca06cdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayAfterCollision: 1.5
+  delayAfterCollision: 1
 --- !u!96 &1378111427689296618
 TrailRenderer:
   serializedVersion: 3
@@ -228,8 +216,8 @@ TrailRenderer:
   m_SortingLayerID: 588059665
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Time: 10
-  m_PreviewTimeScale: 1
+  m_Time: 3
+  m_PreviewTimeScale: 0
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
@@ -299,3 +287,15 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1
+--- !u!114 &6233239776244508540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987083297778883385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39cd7ae0c057434096a764cb68ad454, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

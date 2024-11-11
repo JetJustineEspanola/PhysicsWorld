@@ -8,15 +8,15 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post Processing And Particle Effects
   - Water
   - UI
   - Arrow
-  - Targetq
+  - Target
   - ForeGroundPrefab
   - Background
   - Post PRocessing
-  - 
+  - UI with Post Processing
   - 
   - 
   - 
